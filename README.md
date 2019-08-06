@@ -1,0 +1,2 @@
+# 4-story-Elevator_PLC-Arduino
+The purpose of this project is to demonstrate process control by creating a 4-story elevator. The elevator cab rests on the first floor and waits for either an elevator call or a floor call. When the cab is called, it must travel to the correct floor, where the door opens to allow passengers in and out. When the door closes, the cab returns to the first floor if no other calls are made.
